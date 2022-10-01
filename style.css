@@ -1,9 +1,12 @@
 body{
     background-color: black;
-}
+    }
 .content{
-    color:aliceblue; text-align: center;
+    color:black; text-align: center;
 }
 .header{
     text-align: center;
+}
+a:link {
+    color: aquamarine;
 }
